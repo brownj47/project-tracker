@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    background-color: thistle;
+    margin: 5px;
+}
